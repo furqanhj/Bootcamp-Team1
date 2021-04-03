@@ -8,7 +8,7 @@ import org.testng.annotations.*;
 public class MercedesBase {
 
     public static WebDriver driver;
-    public static final String URL_MERC = "https://www.mercedes-benz.com/en/";
+    public static final String URL_MERC = "https://www.mbusa.com/en/home";
 
     @BeforeSuite
     public static void beforeSuite(){

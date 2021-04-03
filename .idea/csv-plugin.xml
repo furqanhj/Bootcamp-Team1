@@ -10,7 +10,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\com.agooglereference\src\main\java\googleRefExamplePckg\GoogleWebElementsLocators.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\com.agooglereference\src\test\java\testGoogleHomepagePckg\TestGoogleHomepage.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com.mercedesbenz\src\main\java\mercedesBasePckg\MercedesBase.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />
